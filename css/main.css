@@ -6,11 +6,10 @@ ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
-    font-weight: bold;
-    font-size: 5em;
+    font-size: 10px;
 }
 li {
-    margin-top: 5px;
+    margin-top: 10px;
 }
 a:hover {
     text-decoration: underline;
