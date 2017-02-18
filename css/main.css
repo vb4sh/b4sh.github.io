@@ -19,13 +19,10 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    border-bottom:1px solid #CCC;
+    padding-bottom:3px;
 }
-h1:after
-{
-    content:' ';
-    display:block;
-    border:2px solid black;
-}
+
 p {
      font-size: 1.5em;
      line-height: 1.4em;
