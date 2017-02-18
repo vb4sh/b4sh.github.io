@@ -3,12 +3,11 @@ body {
     width: 70%;
 }
 nav ul li {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-size: 1em;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
     font-weight: bold;
-    display: inline;
-    margin-right: 20px;
 }
 a:hover {
     text-decoration: underline;
