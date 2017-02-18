@@ -1,5 +1,5 @@
 body {
-    margin: 60px auto;
+    margin: 50px auto;
     width: 70%;
 }
 ul {
@@ -21,7 +21,7 @@ h1 {
     border-bottom:1px solid #CCC;
     float:left;
     width:100%;
-    padding-bottom:3px;
+    padding-bottom:0px;
 }
 
 p {
