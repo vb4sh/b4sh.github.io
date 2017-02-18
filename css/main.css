@@ -9,10 +9,6 @@ ul {
     font-weight: bold;
     font-size: .8em;
 }
-li {
-    display: inline;
-    margin-right: 20px;
-}
 a:hover {
     text-decoration: underline;
 }
